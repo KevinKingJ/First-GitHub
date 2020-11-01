@@ -1,0 +1,6 @@
+framework module Pods_TableViewScreenshots {
+  umbrella header "Pods-TableViewScreenshots-umbrella.h"
+
+  export *
+  module * { export * }
+}
